@@ -1,17 +1,27 @@
 const express = require("express");
+const fs = require("fs");
 const path = require("path");
 
 const app = express();
 const publicPath = path.join(__dirname, "..", "public");
+const indexHtml = fs.readFileSync(path.join(publicPath, "index.html"), "utf8");
 
 app.use(express.static(publicPath));
+app.use(
+  "/vendor/vue",
+  express.static(path.join(__dirname, "..", "node_modules", "vue", "dist"))
+);
+app.use(
+  "/vendor/quasar",
+  express.static(path.join(__dirname, "..", "node_modules", "quasar", "dist"))
+);
 
 app.get("/health", (_req, res) => {
   res.json({ status: "ok" });
 });
 
 app.get("*", (_req, res) => {
-  res.sendFile(path.join(publicPath, "index.html"));
+  res.type("html").send(indexHtml);
 });
 
 if (require.main === module) {

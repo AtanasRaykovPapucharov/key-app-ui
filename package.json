@@ -12,6 +12,8 @@
     "node": ">=18"
   },
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "quasar": "^2.18.5",
+    "vue": "^3.5.22"
   }
 }
