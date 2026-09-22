@@ -82,7 +82,6 @@ out
 .nuxt
 dist
 .output
-public/vendor/
 
 # Gatsby files
 .cache/

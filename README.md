@@ -11,9 +11,8 @@ npm run dev
 
 Server starts on `http://localhost:3000`.
 
-Requires Node.js 22+.
+Requires Node.js 18+.
 
 ## Vercel deployment
 
 This repository includes `vercel.json` that routes all requests to the Express starter in `server/index.js`.
-The install step is required because `postinstall` copies Vue/Quasar distributable files into `public/vendor` for static serving.

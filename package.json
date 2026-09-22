@@ -6,15 +6,12 @@
   "main": "server/index.js",
   "scripts": {
     "start": "node server/index.js",
-    "dev": "node server/index.js",
-    "postinstall": "mkdir -p public/vendor/vue public/vendor/quasar && cp node_modules/vue/dist/vue.global.prod.js public/vendor/vue/vue.global.prod.js && cp node_modules/quasar/dist/quasar.umd.prod.js public/vendor/quasar/quasar.umd.prod.js && cp node_modules/quasar/dist/quasar.prod.css public/vendor/quasar/quasar.prod.css"
+    "dev": "node server/index.js"
   },
   "engines": {
-    "node": ">=22"
+    "node": ">=18"
   },
   "dependencies": {
-    "express": "^4.21.2",
-    "quasar": "2.33.1",
-    "vue": "^3.5.22"
+    "express": "^4.21.2"
   }
 }
