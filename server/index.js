@@ -12,8 +12,13 @@ app.get("/health", (_req, res) => {
   res.json({ status: "ok" });
 });
 
-app.get("*", (_req, res) => {
-  if (path.extname(_req.path)) {
+app.use((req, res, next) => {
+  if (req.method !== "GET" && req.method !== "HEAD") {
+    next();
+    return;
+  }
+
+  if (path.extname(req.path)) {
     res.status(404).end();
     return;
   }
