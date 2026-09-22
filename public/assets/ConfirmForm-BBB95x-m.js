@@ -1,0 +1,1 @@
+import{R as e,_ as t,ut as n}from"./vue.runtime.esm-bundler-DFPPzBe9.js";var r={class:`text-h6 text-center q-pa-sm`},i={__name:`ConfirmForm`,props:{modelValue:{type:Object,required:!0}},setup(i){return(a,o)=>(e(),t(`div`,r,n(i.modelValue.message),1))}};export{i as t};

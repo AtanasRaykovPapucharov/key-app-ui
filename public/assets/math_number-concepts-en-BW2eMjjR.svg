@@ -1,0 +1,361 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1220 1730" font-family="Arial, Helvetica, sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpiNzZjZDE0OC00MTBhLTQ5YmUtOTQ2NS02NGYwNzUwY2VhNWEAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaACz+wuUBtgyTHuBSNCvOrQAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDoyYWVkMjYwOC0xMjRhLTRjYWUtODQ5My0zOThiY2QyNzJiZDJscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoUg90PDeuMtdo/Yt5RmtyoAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg5OQEJPKOb9jDIxwbi2JIQLpyIw2Ul9kOZ8T9rNiiep6kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaL84xJgKiGH+0E3cVFozLeAAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBjFFKGHXKe7KLzcCTUof0ozsFSCTMCvyuuCDryZKLUAWRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiqZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmI3NmNkMTQ4LTQxMGEtNDliZS05NDY1LTY0ZjA3NTBjZWE1YS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjNiYzU1ZGNlLTcwZGQtNDM0My04ZjYzLWEzZGM5N2E5ZmU3NnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDk5AQk8o5v2MMjHBuLYkhAunIjDZSX2Q5nxP2s2KJ6nqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggxGsNmbnHOWS1E9i93oJB46qKNlAiO7sC0GHSUd5I/saiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggBvO2reE4prl48dduZEfLm1CcO+HWuQhNgnvpyi8g8RJ0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQBX7v0qj2h8y90ivxgTCJJAlISOuEh+Qh+yMpGT11oco7L4cJue7bVDV+kOxhNsUIy+tUjYp48FTiIrNlxIhL3I=</c2pa:manifest></metadata>
+
+  <defs>
+    <marker id="arrowEnd" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L10,5 L0,10 z" fill="#1e293b"/>
+    </marker>
+    <marker id="arrowStart" markerWidth="10" markerHeight="10" refX="2" refY="5" orient="auto" markerUnits="strokeWidth">
+      <path d="M10,0 L0,5 L10,10 z" fill="#1e293b"/>
+    </marker>
+  </defs>
+
+
+  <style>
+    rect[width="380"][height="380"] { fill-opacity: 0.82; }
+  </style>
+
+  <text x="610" y="55" text-anchor="middle" font-size="34" font-weight="bold" fill="#0f172a">Twelve Core Number &amp; Math Concepts</text>
+  <text x="610" y="85" text-anchor="middle" font-size="15" font-style="italic" fill="#475569">From counting numbers to scientific notation</text>
+
+  <!-- ================= PANEL 1: NATURAL NUMBERS ================= -->
+  <g transform="translate(20,130)">
+    <rect width="380" height="380" rx="16" fill="#dbeafe" stroke="#475569" stroke-width="2"/>
+    <text x="190" y="30" text-anchor="middle" font-size="19" font-weight="bold" fill="#1e293b">Natural Numbers</text>
+    <text x="15" y="52" font-size="12.5" fill="#334155">
+      <tspan x="15" dy="0">Counting numbers: 1, 2, 3, 4, ...</tspan>
+      <tspan x="15" dy="15">(Some definitions include 0.)</tspan>
+      <tspan x="15" dy="15">Used to count objects.</tspan>
+    </text>
+    <text x="190" y="128" text-anchor="middle" font-size="14" font-weight="bold" fill="#1e40af">ℕ = { 1, 2, 3, 4, 5, ... }</text>
+
+    <line x1="30" y1="300" x2="345" y2="300" stroke="#1e293b" stroke-width="2" marker-end="url(#arrowEnd)"/>
+    <!-- ticks 0..6 -->
+    <g stroke="#1e293b" stroke-width="1.5">
+      <line x1="45" y1="294" x2="45" y2="306"/>
+      <line x1="90" y1="294" x2="90" y2="306"/>
+      <line x1="135" y1="294" x2="135" y2="306"/>
+      <line x1="180" y1="294" x2="180" y2="306"/>
+      <line x1="225" y1="294" x2="225" y2="306"/>
+      <line x1="270" y1="294" x2="270" y2="306"/>
+      <line x1="315" y1="294" x2="315" y2="306"/>
+    </g>
+    <g font-size="12" text-anchor="middle" fill="#1e293b">
+      <text x="45" y="322">0</text>
+      <text x="90" y="322">1</text>
+      <text x="135" y="322">2</text>
+      <text x="180" y="322">3</text>
+      <text x="225" y="322">4</text>
+      <text x="270" y="322">5</text>
+      <text x="315" y="322">6</text>
+    </g>
+    <circle cx="45" cy="300" r="6" fill="white" stroke="#2563eb" stroke-width="2"/>
+    <circle cx="90" cy="300" r="6" fill="#2563eb"/>
+    <circle cx="135" cy="300" r="6" fill="#2563eb"/>
+    <circle cx="180" cy="300" r="6" fill="#2563eb"/>
+    <circle cx="225" cy="300" r="6" fill="#2563eb"/>
+    <circle cx="270" cy="300" r="6" fill="#2563eb"/>
+    <circle cx="315" cy="300" r="6" fill="#2563eb"/>
+    <text x="190" y="355" text-anchor="middle" font-size="11" fill="#1e40af">goes on forever →</text>
+  </g>
+
+  <!-- ================= PANEL 2: INTEGERS ================= -->
+  <g transform="translate(420,130)">
+    <rect width="380" height="380" rx="16" fill="#fee2e2" stroke="#475569" stroke-width="2"/>
+    <text x="190" y="30" text-anchor="middle" font-size="19" font-weight="bold" fill="#1e293b">Integers</text>
+    <text x="15" y="52" font-size="12.5" fill="#334155">
+      <tspan x="15" dy="0">Whole numbers: negatives, zero,</tspan>
+      <tspan x="15" dy="15">and positives.</tspan>
+      <tspan x="15" dy="15">No fractions or decimals.</tspan>
+    </text>
+    <text x="190" y="128" text-anchor="middle" font-size="14" font-weight="bold" fill="#991b1b">ℤ = { ..., -2, -1, 0, 1, 2, ... }</text>
+
+    <line x1="30" y1="300" x2="350" y2="300" stroke="#1e293b" stroke-width="2" marker-start="url(#arrowStart)" marker-end="url(#arrowEnd)"/>
+    <g stroke="#1e293b" stroke-width="1.5">
+      <line x1="55" y1="294" x2="55" y2="306"/>
+      <line x1="100" y1="294" x2="100" y2="306"/>
+      <line x1="145" y1="294" x2="145" y2="306"/>
+      <line x1="190" y1="294" x2="190" y2="306"/>
+      <line x1="235" y1="294" x2="235" y2="306"/>
+      <line x1="280" y1="294" x2="280" y2="306"/>
+      <line x1="325" y1="294" x2="325" y2="306"/>
+    </g>
+    <g font-size="12" text-anchor="middle" fill="#1e293b">
+      <text x="55" y="322">-3</text>
+      <text x="100" y="322">-2</text>
+      <text x="145" y="322">-1</text>
+      <text x="190" y="322">0</text>
+      <text x="235" y="322">1</text>
+      <text x="280" y="322">2</text>
+      <text x="325" y="322">3</text>
+    </g>
+    <circle cx="55" cy="300" r="6" fill="#dc2626"/>
+    <circle cx="100" cy="300" r="6" fill="#dc2626"/>
+    <circle cx="145" cy="300" r="6" fill="#dc2626"/>
+    <circle cx="190" cy="300" r="6" fill="#6b7280"/>
+    <circle cx="235" cy="300" r="6" fill="#2563eb"/>
+    <circle cx="280" cy="300" r="6" fill="#2563eb"/>
+    <circle cx="325" cy="300" r="6" fill="#2563eb"/>
+    <text x="190" y="355" text-anchor="middle" font-size="11" fill="#991b1b">extends forever both ways</text>
+  </g>
+
+  <!-- ================= PANEL 3: RATIONAL NUMBERS ================= -->
+  <g transform="translate(820,130)">
+    <rect width="380" height="380" rx="16" fill="#dcfce7" stroke="#475569" stroke-width="2"/>
+    <text x="190" y="30" text-anchor="middle" font-size="19" font-weight="bold" fill="#1e293b">Rational Numbers</text>
+    <text x="15" y="52" font-size="12.5" fill="#334155">
+      <tspan x="15" dy="0">Numbers written as a fraction</tspan>
+      <tspan x="15" dy="15">p/q where q ≠ 0.</tspan>
+      <tspan x="15" dy="15">Includes integers &amp; decimals.</tspan>
+    </text>
+    <text x="190" y="128" text-anchor="middle" font-size="13" font-weight="bold" fill="#166534">ℚ = { p/q : p, q ∈ ℤ, q≠0 }</text>
+
+    <!-- card 1 -->
+    <rect x="20" y="150" width="100" height="90" rx="8" fill="white" stroke="#475569" stroke-width="1.5"/>
+    <text x="70" y="185" text-anchor="middle" font-size="20" font-weight="bold" fill="#166534">1</text>
+    <line x1="45" y1="195" x2="95" y2="195" stroke="#166534" stroke-width="2"/>
+    <text x="70" y="225" text-anchor="middle" font-size="20" font-weight="bold" fill="#166534">2</text>
+    <text x="70" y="260" text-anchor="middle" font-size="10" fill="#334155">(= 0.5)</text>
+
+    <!-- card 2 -->
+    <rect x="140" y="150" width="100" height="90" rx="8" fill="white" stroke="#475569" stroke-width="1.5"/>
+    <text x="190" y="185" text-anchor="middle" font-size="20" font-weight="bold" fill="#166534">-3</text>
+    <line x1="165" y1="195" x2="215" y2="195" stroke="#166534" stroke-width="2"/>
+    <text x="190" y="225" text-anchor="middle" font-size="20" font-weight="bold" fill="#166534">4</text>
+    <text x="190" y="260" text-anchor="middle" font-size="10" fill="#334155">(= -0.75)</text>
+
+    <!-- card 3 -->
+    <rect x="260" y="150" width="100" height="90" rx="8" fill="white" stroke="#475569" stroke-width="1.5"/>
+    <text x="310" y="205" text-anchor="middle" font-size="26" font-weight="bold" fill="#166534">5</text>
+    <text x="310" y="260" text-anchor="middle" font-size="10" fill="#334155">(= 5/1, an integer)</text>
+
+    <text x="190" y="330" text-anchor="middle" font-size="11" fill="#166534">Any fraction, whole number, or</text>
+    <text x="190" y="346" text-anchor="middle" font-size="11" fill="#166534">terminating/repeating decimal is rational.</text>
+  </g>
+
+  <!-- ================= PANEL 4: REAL NUMBERS ================= -->
+  <g transform="translate(20,530)">
+    <rect width="380" height="380" rx="16" fill="#fef9c3" stroke="#475569" stroke-width="2"/>
+    <text x="190" y="30" text-anchor="middle" font-size="19" font-weight="bold" fill="#1e293b">Real Numbers</text>
+    <text x="15" y="52" font-size="12.5" fill="#334155">
+      <tspan x="15" dy="0">All rational AND irrational</tspan>
+      <tspan x="15" dy="15">numbers (like √2, π).</tspan>
+      <tspan x="15" dy="15">Fill the entire number line.</tspan>
+    </text>
+    <text x="190" y="128" text-anchor="middle" font-size="14" font-weight="bold" fill="#854d0e">ℝ = ℚ ∪ Irrationals</text>
+
+    <line x1="30" y1="300" x2="340" y2="300" stroke="#1e293b" stroke-width="3" marker-start="url(#arrowStart)" marker-end="url(#arrowEnd)"/>
+    <circle cx="40" cy="300" r="6" fill="#2563eb"/>
+    <circle cx="110" cy="300" r="6" fill="#2563eb"/>
+    <circle cx="139" cy="300" r="6" fill="#7c3aed"/>
+    <circle cx="260" cy="300" r="6" fill="#7c3aed"/>
+    <g font-size="13" text-anchor="middle" fill="#1e293b">
+      <text x="40" y="290">0</text>
+      <text x="110" y="290">1</text>
+      <text x="139" y="330">√2</text>
+      <text x="260" y="330">π</text>
+    </g>
+    <text x="190" y="360" text-anchor="middle" font-size="11" fill="#7c3aed">Irrationals like √2, π fill the gaps between rationals</text>
+  </g>
+
+  <!-- ================= PANEL 5: FRACTIONS ================= -->
+  <g transform="translate(420,530)">
+    <rect width="380" height="380" rx="16" fill="#fae8ff" stroke="#475569" stroke-width="2"/>
+    <text x="190" y="30" text-anchor="middle" font-size="19" font-weight="bold" fill="#1e293b">Fractions</text>
+    <text x="15" y="52" font-size="12.5" fill="#334155">
+      <tspan x="15" dy="0">A fraction shows a part of a</tspan>
+      <tspan x="15" dy="15">whole: numerator / denominator.</tspan>
+      <tspan x="15" dy="15">Example below: 3 of 4 parts.</tspan>
+    </text>
+
+    <circle cx="190" cy="235" r="70" fill="none" stroke="#475569" stroke-width="2"/>
+    <path d="M190,235 L190,165 A70,70 0 0,1 260,235 Z" fill="#f59e0b" stroke="#92400e" stroke-width="1"/>
+    <path d="M190,235 L260,235 A70,70 0 0,1 190,305 Z" fill="#f59e0b" stroke="#92400e" stroke-width="1"/>
+    <path d="M190,235 L190,305 A70,70 0 0,1 120,235 Z" fill="#f59e0b" stroke="#92400e" stroke-width="1"/>
+    <path d="M190,235 L120,235 A70,70 0 0,1 190,165 Z" fill="white" stroke="#92400e" stroke-width="1"/>
+
+    <text x="190" y="335" text-anchor="middle" font-size="16" font-weight="bold" fill="#92400e">3/4</text>
+    <text x="190" y="355" text-anchor="middle" font-size="11" fill="#78350f">numerator = 3, denominator = 4</text>
+  </g>
+
+  <!-- ================= PANEL 6: DECIMALS ================= -->
+  <g transform="translate(820,530)">
+    <rect width="380" height="380" rx="16" fill="#ffedd5" stroke="#475569" stroke-width="2"/>
+    <text x="190" y="30" text-anchor="middle" font-size="19" font-weight="bold" fill="#1e293b">Decimals</text>
+    <text x="15" y="52" font-size="12.5" fill="#334155">
+      <tspan x="15" dy="0">Decimals use place value after</tspan>
+      <tspan x="15" dy="15">a decimal point: tenths,</tspan>
+      <tspan x="15" dy="15">hundredths, thousandths...</tspan>
+    </text>
+
+    <rect x="90" y="160" width="60" height="60" rx="6" fill="white" stroke="#c2410c" stroke-width="2"/>
+    <rect x="180" y="160" width="60" height="60" rx="6" fill="white" stroke="#c2410c" stroke-width="2"/>
+    <rect x="250" y="160" width="60" height="60" rx="6" fill="white" stroke="#c2410c" stroke-width="2"/>
+    <circle cx="167" cy="212" r="4" fill="#1e293b"/>
+
+    <text x="120" y="202" text-anchor="middle" font-size="28" font-weight="bold" fill="#c2410c">0</text>
+    <text x="210" y="202" text-anchor="middle" font-size="28" font-weight="bold" fill="#c2410c">7</text>
+    <text x="280" y="202" text-anchor="middle" font-size="28" font-weight="bold" fill="#c2410c">5</text>
+
+    <g font-size="11" text-anchor="middle" fill="#334155">
+      <text x="120" y="235">ones</text>
+      <text x="210" y="235">tenths</text>
+      <text x="280" y="235">hundredths</text>
+    </g>
+
+    <text x="190" y="290" text-anchor="middle" font-size="16" font-weight="bold" fill="#9a3412">0.75  =  75/100</text>
+  </g>
+
+  <!-- ================= PANEL 7: PERCENTAGES ================= -->
+  <g transform="translate(20,930)">
+    <rect width="380" height="380" rx="16" fill="#d1fae5" stroke="#475569" stroke-width="2"/>
+    <text x="190" y="30" text-anchor="middle" font-size="19" font-weight="bold" fill="#1e293b">Percentages</text>
+    <text x="15" y="52" font-size="12.5" fill="#334155">
+      <tspan x="15" dy="0">A percentage is a fraction out</tspan>
+      <tspan x="15" dy="15">of 100. The % symbol means</tspan>
+      <tspan x="15" dy="15">"per hundred".</tspan>
+    </text>
+
+    <text x="190" y="195" text-anchor="middle" font-size="18" font-weight="bold" fill="#047857">75%</text>
+    <rect x="40" y="210" width="300" height="34" rx="6" fill="white" stroke="#475569" stroke-width="2"/>
+    <rect x="40" y="210" width="225" height="34" rx="6" fill="#10b981"/>
+
+    <g stroke="#1e293b" stroke-width="1.5">
+      <line x1="40" y1="244" x2="40" y2="252"/>
+      <line x1="115" y1="244" x2="115" y2="252"/>
+      <line x1="190" y1="244" x2="190" y2="252"/>
+      <line x1="265" y1="244" x2="265" y2="252"/>
+      <line x1="340" y1="244" x2="340" y2="252"/>
+    </g>
+    <g font-size="10" text-anchor="middle" fill="#1e293b">
+      <text x="40" y="266">0</text>
+      <text x="115" y="266">25</text>
+      <text x="190" y="266">50</text>
+      <text x="265" y="266">75</text>
+      <text x="340" y="266">100</text>
+    </g>
+    <text x="190" y="310" text-anchor="middle" font-size="12" fill="#047857">75 out of 100 = 75%</text>
+  </g>
+
+  <!-- ================= PANEL 8: ABSOLUTE VALUE ================= -->
+  <g transform="translate(420,930)">
+    <rect width="380" height="380" rx="16" fill="#e0e7ff" stroke="#475569" stroke-width="2"/>
+    <text x="190" y="30" text-anchor="middle" font-size="19" font-weight="bold" fill="#1e293b">Absolute Value</text>
+    <text x="15" y="52" font-size="12.5" fill="#334155">
+      <tspan x="15" dy="0">The absolute value |x| is the</tspan>
+      <tspan x="15" dy="15">distance from zero on the</tspan>
+      <tspan x="15" dy="15">number line — always ≥ 0.</tspan>
+    </text>
+
+    <line x1="30" y1="270" x2="350" y2="270" stroke="#1e293b" stroke-width="2" marker-start="url(#arrowStart)" marker-end="url(#arrowEnd)"/>
+    <g font-size="12" text-anchor="middle" fill="#1e293b">
+      <text x="70" y="260">-3</text>
+      <text x="190" y="260">0</text>
+      <text x="310" y="260">3</text>
+    </g>
+    <circle cx="70" cy="270" r="6" fill="#dc2626"/>
+    <circle cx="190" cy="270" r="6" fill="#6b7280"/>
+    <circle cx="310" cy="270" r="6" fill="#2563eb"/>
+
+    <path d="M70,280 Q130,305 190,280" stroke="#7c3aed" stroke-width="2" fill="none"/>
+    <path d="M190,280 Q250,305 310,280" stroke="#7c3aed" stroke-width="2" fill="none"/>
+    <text x="130" y="318" text-anchor="middle" font-size="12" fill="#7c3aed">3</text>
+    <text x="250" y="318" text-anchor="middle" font-size="12" fill="#7c3aed">3</text>
+
+    <text x="190" y="355" text-anchor="middle" font-size="14" font-weight="bold" fill="#312e81">|-3| = 3        |3| = 3</text>
+  </g>
+
+  <!-- ================= PANEL 9: ORDER OF OPERATIONS ================= -->
+  <g transform="translate(820,930)">
+    <rect width="380" height="380" rx="16" fill="#fce7f3" stroke="#475569" stroke-width="2"/>
+    <text x="190" y="30" text-anchor="middle" font-size="19" font-weight="bold" fill="#1e293b">Order of Operations</text>
+    <text x="15" y="52" font-size="12.5" fill="#334155">
+      <tspan x="15" dy="0">PEMDAS tells us what order</tspan>
+      <tspan x="15" dy="15">to solve expressions in.</tspan>
+    </text>
+
+    <rect x="40" y="105" width="300" height="24" rx="4" fill="#fecaca"/>
+    <text x="50" y="121" font-size="12" fill="#7f1d1d">P — Parentheses ( )</text>
+    <rect x="40" y="135" width="300" height="24" rx="4" fill="#fed7aa"/>
+    <text x="50" y="151" font-size="12" fill="#7c2d12">E — Exponents (²,³...)</text>
+    <rect x="40" y="165" width="300" height="24" rx="4" fill="#fef08a"/>
+    <text x="50" y="181" font-size="12" fill="#713f12">M/D — Multiply &amp; Divide (left→right)</text>
+    <rect x="40" y="195" width="300" height="24" rx="4" fill="#bbf7d0"/>
+    <text x="50" y="211" font-size="12" fill="#14532d">A/S — Add &amp; Subtract (left→right)</text>
+
+    <text x="190" y="255" text-anchor="middle" font-size="12" font-weight="bold" fill="#1e293b">Example:</text>
+    <rect x="215" y="270" width="42" height="20" fill="#fde68a" opacity="0.8"/>
+    <text x="190" y="288" text-anchor="middle" font-size="16" font-weight="bold" fill="#1e293b">3 + 4 × 2 = 11</text>
+    <text x="190" y="330" text-anchor="middle" font-size="11" fill="#334155">(4 × 2 = 8 first, then 3 + 8 = 11)</text>
+  </g>
+
+  <!-- ================= PANEL 10: POWERS ================= -->
+  <g transform="translate(20,1330)">
+    <rect width="380" height="380" rx="16" fill="#cffafe" stroke="#475569" stroke-width="2"/>
+    <text x="190" y="30" text-anchor="middle" font-size="19" font-weight="bold" fill="#1e293b">Powers</text>
+    <text x="15" y="52" font-size="12.5" fill="#334155">
+      <tspan x="15" dy="0">A power shows repeated</tspan>
+      <tspan x="15" dy="15">multiplication: baseⁿ.</tspan>
+      <tspan x="15" dy="15">2³ means 2 × 2 × 2.</tspan>
+    </text>
+
+    <text x="190" y="150" text-anchor="middle" font-size="30" font-weight="bold" fill="#0e7490">2³</text>
+    <text x="190" y="180" text-anchor="middle" font-size="15" fill="#334155">= 2 × 2 × 2</text>
+
+    <rect x="100" y="200" width="45" height="45" rx="6" fill="#a5f3fc" stroke="#0e7490" stroke-width="2"/>
+    <rect x="167" y="200" width="45" height="45" rx="6" fill="#a5f3fc" stroke="#0e7490" stroke-width="2"/>
+    <rect x="234" y="200" width="45" height="45" rx="6" fill="#a5f3fc" stroke="#0e7490" stroke-width="2"/>
+    <text x="122" y="230" text-anchor="middle" font-size="20" font-weight="bold" fill="#0e7490">2</text>
+    <text x="189" y="230" text-anchor="middle" font-size="20" font-weight="bold" fill="#0e7490">2</text>
+    <text x="256" y="230" text-anchor="middle" font-size="20" font-weight="bold" fill="#0e7490">2</text>
+
+    <line x1="190" y1="255" x2="190" y2="300" stroke="#1e293b" stroke-width="2" marker-end="url(#arrowEnd)"/>
+    <rect x="160" y="305" width="60" height="40" rx="6" fill="#0e7490"/>
+    <text x="190" y="332" text-anchor="middle" font-size="22" font-weight="bold" fill="white">8</text>
+  </g>
+
+  <!-- ================= PANEL 11: ROOTS ================= -->
+  <g transform="translate(420,1330)">
+    <rect width="380" height="380" rx="16" fill="#ede9fe" stroke="#475569" stroke-width="2"/>
+    <text x="190" y="30" text-anchor="middle" font-size="19" font-weight="bold" fill="#1e293b">Roots</text>
+    <text x="15" y="52" font-size="12.5" fill="#334155">
+      <tspan x="15" dy="0">A root is the inverse of a</tspan>
+      <tspan x="15" dy="15">power. √9 = 3 because</tspan>
+      <tspan x="15" dy="15">3 × 3 = 9.</tspan>
+    </text>
+
+    <text x="190" y="195" text-anchor="middle" font-size="40" font-weight="bold" fill="#5b21b6">√9 = 3</text>
+    <text x="190" y="230" text-anchor="middle" font-size="14" fill="#334155">because 3 × 3 = 9</text>
+
+    <g fill="#ddd6fe" stroke="#5b21b6" stroke-width="1">
+      <rect x="140" y="255" width="18" height="18"/>
+      <rect x="160" y="255" width="18" height="18"/>
+      <rect x="180" y="255" width="18" height="18"/>
+      <rect x="140" y="275" width="18" height="18"/>
+      <rect x="160" y="275" width="18" height="18"/>
+      <rect x="180" y="275" width="18" height="18"/>
+      <rect x="140" y="295" width="18" height="18"/>
+      <rect x="160" y="295" width="18" height="18"/>
+      <rect x="180" y="295" width="18" height="18"/>
+    </g>
+    <text x="190" y="335" text-anchor="middle" font-size="11" fill="#4c1d95">3 rows × 3 columns = 9 squares</text>
+  </g>
+
+  <!-- ================= PANEL 12: SCIENTIFIC NOTATION ================= -->
+  <g transform="translate(820,1330)">
+    <rect width="380" height="380" rx="16" fill="#fef3c7" stroke="#475569" stroke-width="2"/>
+    <text x="190" y="30" text-anchor="middle" font-size="19" font-weight="bold" fill="#1e293b">Scientific Notation</text>
+    <text x="15" y="52" font-size="12.5" fill="#334155">
+      <tspan x="15" dy="0">Large or small numbers written</tspan>
+      <tspan x="15" dy="15">as a × 10ⁿ, where 1 ≤ a &lt; 10.</tspan>
+      <tspan x="15" dy="15">Powers of 10 shift the decimal.</tspan>
+    </text>
+
+    <text x="190" y="180" text-anchor="middle" font-size="20" font-weight="bold" fill="#78350f">320,000</text>
+    <line x1="190" y1="192" x2="190" y2="220" stroke="#1e293b" stroke-width="2" marker-end="url(#arrowEnd)"/>
+    <text x="190" y="255" text-anchor="middle" font-size="24" font-weight="bold" fill="#78350f">3.2 × 10⁵</text>
+    <text x="190" y="285" text-anchor="middle" font-size="12" fill="#334155">decimal point moves 5 places left</text>
+
+    <text x="190" y="325" text-anchor="middle" font-size="13" fill="#78350f">0.00047 = 4.7 × 10⁻⁴</text>
+  </g>
+
+</svg>

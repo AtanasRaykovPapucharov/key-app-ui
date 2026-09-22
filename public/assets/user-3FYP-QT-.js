@@ -1,0 +1,1 @@
+import{n as e}from"./pinia-CKhZUtHv.js";import{i as t,t as n}from"./local-C8eWDFXb.js";var r=e(`user`,{state:()=>({user:{username:`Unknown`,avatar:null,admin:!1,isAuthenticated:!1,uid:null}}),actions:{setUser(e){this.user=e,t(e),localStorage.setItem(`token`,e.uid)},signOut(){this.user={username:`Unknown`,avatar:null,admin:!1,isAuthenticated:!1,uid:null},n()}}});export{r as t};

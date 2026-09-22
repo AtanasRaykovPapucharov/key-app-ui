@@ -1,0 +1,1 @@
+import{t as e}from"./wrappers-tlRBzssl.js";import{t}from"./vue-i18n.runtime-DEVugdqG.js";import{n}from"./i18n-DIYrilY9.js";var r=e(({app:e})=>{let r=t({locale:`en-US`,globalInjection:!0,messages:n});e.use(r)});export{r as default};

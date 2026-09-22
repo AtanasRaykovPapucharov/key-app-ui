@@ -1,0 +1,1 @@
+var e=({app:e})=>{let t={input:{dense:!0,debounce:250},btn:{unelevated:!0,color:`secondary`,rounded:!0,size:`md`},card:{flat:!0,bordered:!0},table:{dense:!0,flat:!0,bordered:!0,separator:`cell`},dialog:{seamless:!0,persistent:!1}};e.config.globalProperties.$defaults=t};export{e as default};

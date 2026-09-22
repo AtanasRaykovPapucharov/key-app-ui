@@ -1,0 +1,64 @@
+<svg width="100%" viewBox="0 0 360 170" role="img" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
+  <title style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">CRYPTOOL — horizontal logo with candlestick chart inside hexagon on dark background</title>
+  <desc style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Dark background, hexagon on left containing three trading candlesticks, CRYPTOOL wordmark and tagline on the right</desc>
+
+  <!-- Dark background -->
+  <rect x="0" y="0" width="360" height="170" fill="#0E0E0E"/>
+
+  <g transform="translate(-15 -13)">
+
+  <!-- Red left edge bar -->
+  <!-- <rect x="0" y="0" width="4" height="220" rx="2" fill="#E24B4A" opacity="0.85" style="fill:rgb(226, 75, 74);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.85;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/> -->
+
+  <!-- Outer hex ring -->
+  <polygon points="110,18 180,58 180,138 110,178 40,138 40,58" fill="none" stroke="#E24B4A" stroke-width="0.75" opacity="0.22" style="fill:none;stroke:rgb(226, 75, 74);color:rgb(0, 0, 0);stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.22;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Main hexagon -->
+  <polygon points="110,30 172,66 172,134 110,170 48,134 48,66" fill="#1A1A1A" stroke="#E24B4A" stroke-width="2" style="fill:rgb(26, 26, 26);stroke:rgb(226, 75, 74);color:rgb(0, 0, 0);stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Inner hex accent -->
+  <polygon points="110,50 158,77 158,123 110,150 62,123 62,77" fill="none" stroke="#E24B4A" stroke-width="0.7" opacity="0.28" style="fill:none;stroke:rgb(226, 75, 74);color:rgb(0, 0, 0);stroke-width:0.7px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.28;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- ── CANDLESTICKS ── -->
+
+  <!-- Candle 1 — bearish (red), left -->
+  <!-- Wick -->
+  <line x1="83" y1="63" x2="83" y2="132" stroke="#E24B4A" stroke-width="1.5" stroke-linecap="round" style="fill:rgb(0, 0, 0);stroke:rgb(226, 75, 74);color:rgb(0, 0, 0);stroke-width:1.5px;stroke-linecap:round;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Body (open > close, price fell) -->
+  <rect x="76" y="75" width="14" height="42" rx="1.5" fill="#E24B4A" style="fill:rgb(226, 75, 74);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Candle 2 — bullish (green), center, tallest -->
+  <ellipse cx="110" cy="100" rx="18" ry="40" fill="#22C55E" opacity="0.18"/>
+  <!-- Wick -->
+  <line x1="110" y1="57" x2="110" y2="143" stroke="#22C55E" stroke-width="1.5" stroke-linecap="round" style="fill:rgb(0, 0, 0);stroke:rgb(34, 197, 94);color:rgb(0, 0, 0);stroke-width:1.5px;stroke-linecap:round;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Body (close > open, price rose) -->
+  <rect x="103" y="70" width="14" height="58" rx="1.5" fill="#22C55E" style="fill:rgb(34, 197, 94);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Candle 3 — bearish (red), right, shorter -->
+  <!-- Wick -->
+  <line x1="137" y1="66" x2="137" y2="128" stroke="#E24B4A" stroke-width="1.5" stroke-linecap="round" style="fill:rgb(0, 0, 0);stroke:rgb(226, 75, 74);color:rgb(0, 0, 0);stroke-width:1.5px;stroke-linecap:round;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Body -->
+  <rect x="130" y="78" width="14" height="36" rx="1.5" fill="#E24B4A" style="fill:rgb(226, 75, 74);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Tiny baseline grid lines inside hex for chart feel -->
+  <!-- <line x1="62" y1="143" x2="158" y2="143" stroke="#22C55E" stroke-width="0.5" opacity="0.2" style="fill:rgb(0, 0, 0);stroke:rgb(226, 75, 74);color:rgb(0, 0, 0);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.2;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <line x1="62" y1="123" x2="158" y2="123" stroke="#22C55E" stroke-width="0.5" opacity="0.12" style="fill:rgb(0, 0, 0);stroke:rgb(226, 75, 74);color:rgb(0, 0, 0);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.12;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <line x1="62" y1="103" x2="158" y2="103" stroke="#22C55E" stroke-width="0.5" opacity="0.12" style="fill:rgb(0, 0, 0);stroke:rgb(226, 75, 74);color:rgb(0, 0, 0);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.12;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <line x1="62" y1="83" x2="158" y2="83" stroke="#22C55E" stroke-width="0.5" opacity="0.12" style="fill:rgb(0, 0, 0);stroke:rgb(226, 75, 74);color:rgb(0, 0, 0);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.12;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/> -->
+
+
+  <!-- CRYPTOOL wordmark -->
+  <text x="180" y="103" font-family="Arial, sans-serif" font-size="52" font-weight="600" letter-spacing="2" fill="#E24B4A">KEY</text>
+  <text x="242" y="135" font-family="sans-serif" font-size="52" font-weight="600" letter-spacing="2" fill="#22C55E">APP</text>
+
+  <!-- Red underline -->
+  <!-- <rect x="213" y="115" width="324" height="2" rx="1" fill="#E24B4A" opacity="0.85" style="fill:rgb(226, 75, 74);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.85;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/> -->
+
+  <!-- Tagline -->
+  <!-- <text x="286" y="138" font-family="sans-serif" font-size="14" font-weight="700" letter-spacing="4" fill="#4ADE80" style="fill:rgb(74, 222, 128);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:sans-serif;font-size:14px;font-weight:700;text-anchor:start;dominant-baseline:auto">MAKE A PERFECT SHOT</text> -->
+
+  </g>
+
+  <!-- Subtle red glow bottom-right -->
+  <circle cx="330" cy="140" r="30" fill="#E24B4A" opacity="0.05"/>
+</svg>
