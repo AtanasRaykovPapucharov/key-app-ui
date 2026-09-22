@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Key App UI</title>
+    <link
+      rel="stylesheet"
+      href="/vendor/quasar/quasar.prod.css"
+    />
+  </head>
+  <body>
+    <div id="q-app">
+      <q-layout view="hHh lpR fFf">
+        <q-header elevated class="bg-primary text-white">
+          <q-toolbar>
+            <q-toolbar-title>Key App UI</q-toolbar-title>
+          </q-toolbar>
+        </q-header>
+        <q-page-container>
+          <q-page class="q-pa-xl flex flex-center">
+            <div class="text-center">
+              <div class="text-h4 q-mb-md">Quasar + Express Starter</div>
+              <q-btn color="primary" label="Ready for Vercel" />
+            </div>
+          </q-page>
+        </q-page-container>
+      </q-layout>
+    </div>
+
+    <script src="/vendor/vue/vue.global.prod.js"></script>
+    <script src="/vendor/quasar/quasar.umd.prod.js"></script>
+    <script>
+      const app = Vue.createApp({});
+      app.use(Quasar);
+      app.mount("#q-app");
+    </script>
+  </body>
+</html>

@@ -1,0 +1,36 @@
+const express = require("express");
+const fs = require("fs");
+const path = require("path");
+
+const app = express();
+const publicPath = path.join(__dirname, "..", "public");
+const indexHtml = fs.readFileSync(path.join(publicPath, "index.html"), "utf8");
+
+app.use(express.static(publicPath));
+
+app.get("/health", (_req, res) => {
+  res.json({ status: "ok" });
+});
+
+app.use((req, res, next) => {
+  if (req.method !== "GET" && req.method !== "HEAD") {
+    next();
+    return;
+  }
+
+  if (path.extname(req.path)) {
+    res.status(404).end();
+    return;
+  }
+
+  res.type("html").send(indexHtml);
+});
+
+if (require.main === module) {
+  const port = Number(process.env.PORT) || 3000;
+  app.listen(port, () => {
+    console.log(`Server running on http://localhost:${port}`);
+  });
+}
+
+module.exports = app;
