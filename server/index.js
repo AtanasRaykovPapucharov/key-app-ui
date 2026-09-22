@@ -13,6 +13,11 @@ app.get("/health", (_req, res) => {
 });
 
 app.get("*", (_req, res) => {
+  if (path.extname(_req.path)) {
+    res.status(404).end();
+    return;
+  }
+
   res.type("html").send(indexHtml);
 });
 
