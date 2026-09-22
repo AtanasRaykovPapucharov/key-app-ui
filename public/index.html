@@ -6,7 +6,9 @@
     <title>Key App UI</title>
     <link
       rel="stylesheet"
-      href="/vendor/quasar/quasar.prod.css"
+      href="https://cdn.jsdelivr.net/npm/quasar@2.33.1/dist/quasar.prod.css"
+      integrity="sha384-GeDJYU+HTKUthIhovK6kmS9z9Bp6Rio5LNuynakinKx7Iz9D2fEj0Xb28ns0JKrV"
+      crossorigin="anonymous"
     />
   </head>
   <body>
@@ -28,8 +30,16 @@
       </q-layout>
     </div>
 
-    <script src="/vendor/vue/vue.global.prod.js"></script>
-    <script src="/vendor/quasar/quasar.umd.prod.js"></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/vue@3.5.22/dist/vue.global.prod.js"
+      integrity="sha384-EAm39cvdifYiZjQQxCxStLasDodQMYokBrN5XPuJ7aC/JsQ4vyEUCy/+6hXpcBOW"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/quasar@2.33.1/dist/quasar.umd.prod.js"
+      integrity="sha384-pSF2mJXqlkIiq2YhnzYBDql4PaYI5rMviodeHhkOBp2BFAI4tjxUVYyETathpt5Y"
+      crossorigin="anonymous"
+    ></script>
     <script>
       const app = Vue.createApp({});
       app.use(Quasar);
