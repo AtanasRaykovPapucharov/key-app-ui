@@ -6,7 +6,8 @@
   "main": "server/index.js",
   "scripts": {
     "start": "node server/index.js",
-    "dev": "node server/index.js"
+    "dev": "node server/index.js",
+    "postinstall": "mkdir -p public/vendor/vue public/vendor/quasar && cp node_modules/vue/dist/vue.global.prod.js public/vendor/vue/vue.global.prod.js && cp node_modules/quasar/dist/quasar.umd.prod.js public/vendor/quasar/quasar.umd.prod.js && cp node_modules/quasar/dist/quasar.prod.css public/vendor/quasar/quasar.prod.css"
   },
   "engines": {
     "node": ">=18"
