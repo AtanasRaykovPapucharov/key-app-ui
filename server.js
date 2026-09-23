@@ -7,6 +7,10 @@ const dist = path.join(__dirname, "public");
 
 app.use(express.static(dist));
 
+app.get("/api/health", (req, res) => {
+    res.json({ status: "ok", service: "key-app-ui" });
+});
+
 app.get(/^(?!\/api).*/, (req, res) => {
     res.sendFile(path.join(dist, "index.html"));
 });
